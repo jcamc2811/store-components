@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added 
+- I18n Fr, It, Ja, Ko, Nl and Ro
+
+### Fixed 
+- I18n Es
+
 ## [3.154.1] - 2021-10-04
 
 ### Fixed
